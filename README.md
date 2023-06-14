@@ -25,7 +25,7 @@
 - SEO🔍
 <br>
 
-## Proyectos *muestras*
+## *Sample* projects
 <table>
 <tr>
 <td width="50%">
@@ -34,7 +34,7 @@
 <a href=""https://github.com/RomeroSz/SimpleCaptcha" target="_blank"><img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/80f0cb0d-2828-4537-8ec6-38b368266dc7" width="400" alt="Simple Captcha Verification"></a>
 <p>
 <a href="https://github.com/RomeroSz/SimpleCaptcha" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.npmjs.com/package/captcha-thomas" target="_blank">
 <img src="https://img.shields.io/badge/-NPM-green?style=for-the-badge&color=fbfc40">
@@ -52,7 +52,7 @@
 <br>
 <p>
 <a href="https://github.com/RomeroSz/GenericSnackBar" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </a>
 </p>
