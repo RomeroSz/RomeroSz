@@ -1,8 +1,7 @@
 <div align="center">
-  <h2>README EN PROCESO, pronostico de finalizacion para el 06/09</h2>
-<h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/victor-romero-virs/">RomeroSz</a> 👋🙋‍♂️</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/victor-romero-virs/">RomeroSz</a> 👋🙋‍♂️</h1>
 </div>
-<img src="">
+<img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/9dc3b87a-5b55-4521-9b31-b82ecbdcd90d">
 
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
@@ -26,45 +25,42 @@
 - SEO🔍
 <br>
 
-<!-- ## Proyectos *bombitas*
+## Proyectos *muestras*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Simple Captcha Verification Project in Angular</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=""https://github.com/RomeroSz/SimpleCaptcha" target="_blank"><img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/80f0cb0d-2828-4537-8ec6-38b368266dc7" width="400" alt="Simple Captcha Verification"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/RomeroSz/SimpleCaptcha" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://www.npmjs.com/package/captcha-thomas" target="_blank">
+<img src="https://img.shields.io/badge/-NPM-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>The Simple Captcha Verification Project in Angular prevents bots from accessing your website with a responsive and interactive design. It's customizable, compatible with multiple Angular versions, and easy to integrate. Protect sensitive information with our user validator.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Generic Snackbar Project in Angular</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/RomeroSz/GenericSnackBar" target="_blank"><img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/05cf05eb-2ba9-4fe4-ad6f-874ce1189c1a" width="400" alt="Generic Snackbar Project in Angular"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/RomeroSz/GenericSnackBar" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>The Snakbar Project is an Angular snackbar component designed to be interactive, responsive, and functional across multiple Angular versions. The snackbar has a responsive design that works well on all screen sizes from mobile devices to desktop computers. Users can interact with the snackbar through animations, transitions, actions, and timeouts.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
-<br> -->
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
