@@ -2,6 +2,13 @@
   <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/romerovictordev/">Victor Romero</a> — FullStack Developer 🚀</h1>
   <h3>Delivering Scalable, High-Impact Tech Solutions for Startups, Enterprises, and Government Sectors 🌟</h3>
   <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/9dc3b87a-5b55-4521-9b31-b82ecbdcd90d" alt="Victor Romero" width="800"/>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" /> </p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romerosz" alt="romerosz" /></a>
+  <a href="mailto:romerovictordev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/romerovictordev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/RomeroSz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 </div>
 
 ---
@@ -67,36 +74,6 @@
 
 ---
 
-## 🚀 Highlighted Projects  
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <h3>📋 Captcha Verification in Angular</h3>
-  <a href="https://github.com/RomeroSz/SimpleCaptcha" target="_blank">
-    <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/80f0cb0d-2828-4537-8ec6-38b368266dc7" alt="Captcha Project" width="300"/>
-  </a>
-  <p>
-    <a href="https://github.com/RomeroSz/SimpleCaptcha" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20Code-black?style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/package/captcha-thomas" target="_blank"><img src="https://img.shields.io/badge/-View%20on%20NPM-orange?style=for-the-badge&logo=npm"></a>
-  </p>
-  <p>💡 Interactive captcha system to secure sensitive data.</p>
-</td>
-<td align="center" width="50%">
-  <h3>💬 Generic Snackbar Component</h3>
-  <a href="https://github.com/RomeroSz/GenericSnackBar" target="_blank">
-    <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/05cf05eb-2ba9-4fe4-ad6f-874ce1189c1a" alt="Snackbar Project" width="300"/>
-  </a>
-  <p>
-    <a href="https://github.com/RomeroSz/GenericSnackBar" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20Code-blue?style=for-the-badge&logo=github"></a>
-  </p>
-  <p>💡 A reusable, customizable notification component.</p>
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 GitHub Stats  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romerosz&show_icons=true&locale=en&layout=compact" alt="romerosz" /></p>
@@ -110,7 +87,5 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:romerovictordev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/romerovictordev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/RomeroSz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  
 </p>
