@@ -4,10 +4,12 @@
   <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/3d534654-7eb5-4c6a-8fda-4f5f52461195" alt="Victor Romero Readme Banner" width="800"/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" />
-  <a href="mailto:romerovictordev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/romerovictordev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/RomeroSz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a target="_blank" href="mailto:romerovictordev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/romerovictordev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/RomeroSz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://api.whatsapp.com/send?phone=+584242798175&text=Hola%20V%C3%ADctor,%20quiero%20comunicarme%20contigo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
+
 </div>
 
 ---
