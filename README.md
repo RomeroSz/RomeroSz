@@ -3,7 +3,7 @@
   <h3>Delivering Scalable, High-Impact Tech Solutions for Startups, Enterprises, and Government Sectors 🌟</h3>
   <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/9dc3b87a-5b55-4521-9b31-b82ecbdcd90d" alt="Victor Romero" width="800"/>
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" />
+  <img src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" />
   <a href="mailto:romerovictordev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/romerovictordev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/RomeroSz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
