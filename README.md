@@ -79,6 +79,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en" alt="romerosz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romerosz&" alt="romerosz" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romerosz&" alt="romerosz" /></p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romerosz" alt="romerosz" /></a>
