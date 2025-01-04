@@ -3,7 +3,7 @@
   <h3>Delivering Scalable, High-Impact Tech Solutions for Startups, Enterprises, and Government Sectors 🌟</h3>
   <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/9dc3b87a-5b55-4521-9b31-b82ecbdcd90d" alt="Victor Romero" width="800"/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" />
   <a href="mailto:romerovictordev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/romerovictordev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/RomeroSz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -25,13 +25,15 @@
 
 ---
 
-**📘 Universidad Alejandro de Humboldt** | *Bachelor's in Computer Engineering*  
-**2021 – Apr 2025 (10th Semester)**  
-- Current thesis in progress.  
+## 📈 GitHub Stats  
 
-**🎓 Certifications**  
-- **Intensive Programming Course (130 hours)** | Technology Consulting Solutions  
-  Focus on mobile and web app development with Java, Angular, Flutter, Node.js, and databases.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romerosz&show_icons=true&locale=en&layout=compact" alt="romerosz" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en" alt="romerosz" /></p>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romerosz&" alt="romerosz" /></p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romerosz" alt="romerosz" /></a>
 
 ---
 
@@ -70,15 +72,3 @@
 - **Problem Solving**: Strategic approach to overcome technical challenges.  
 - **Adaptability**: Quick learner, always updated with industry trends.  
 - **Quality-Driven**: Delivering stable, secure, and scalable solutions.  
-
----
-
-## 📈 GitHub Stats  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romerosz&show_icons=true&locale=en&layout=compact" alt="romerosz" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en" alt="romerosz" /></p>
-
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romerosz&" alt="romerosz" /></p>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romerosz" alt="romerosz" /></a>
