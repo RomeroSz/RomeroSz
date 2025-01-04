@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/romerovictordev/">Victor Romero</a> — FullStack Developer 🚀</h1>
-  <h3>Delivering Scalable, High-Impact Tech Solutions for Startups, Enterprises, and Government Sectors 🌟</h3>
+  <h3>Delivering Scalable, High-Impact Tech Solutions for Startups, Enterprises, and Government Sectors 👨🏼‍💻 </h3>
   <img src="https://github.com/RomeroSz/RomeroSz/assets/94831223/3d534654-7eb5-4c6a-8fda-4f5f52461195" alt="Victor Romero Readme Banner" width="800"/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=romerosz&label=Profile%20views&color=0e75b6&style=flat" alt="romerosz" />
