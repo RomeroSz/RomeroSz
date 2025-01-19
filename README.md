@@ -30,10 +30,22 @@
 
 ## 📈 GitHub Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romerosz&show_icons=true&locale=en&layout=compact" alt="romerosz" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en" alt="romerosz" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=romerosz&locale=es" alt="GitHub Streak" /></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romerosz" alt="romerosz" /></a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romerosz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=romerosz&theme=dark&locale=es" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=romerosz&theme=onestar&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
