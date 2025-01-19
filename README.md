@@ -33,13 +33,8 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romerosz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=romerosz&theme=dark&locale=es" alt="GitHub Streak" />
-  </a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romerosz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
