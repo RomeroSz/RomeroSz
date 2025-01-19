@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/romerovictordev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/RomeroSz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://api.whatsapp.com/send?phone=+584242798175&text=Hola%20V%C3%ADctor,%20quiero%20comunicarme%20contigo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://portfolio-romerosz.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio"></a>
 </p>
 
 </div>
